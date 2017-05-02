@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 GitHub first commit
 dev branch add
+Creating a new branch is quick AND simple.
